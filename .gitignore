@@ -1,5 +1,2 @@
 dev/node_modules
 dev/.tmp
-/assets
-/*.hbs
-/partials/*.hbs
